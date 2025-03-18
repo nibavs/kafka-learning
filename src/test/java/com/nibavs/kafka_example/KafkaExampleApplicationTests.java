@@ -1,4 +1,4 @@
-package com.example.kafka_example;
+package com.nibavs.kafka_example;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -8,6 +8,7 @@ class KafkaExampleApplicationTests {
 
 	@Test
 	void contextLoads() {
+		return;
 	}
 
 }
